@@ -1,4 +1,4 @@
 # PasswordReset
 Web based password reset tool
 
-Not ready, just me playing around :)
+Not ready for anything, just me playing around
